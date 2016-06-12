@@ -1,0 +1,7 @@
+<?xml version='1.1' encoding='utf-8'?>
+<widget id="com.vladimir.battery"
+        version="0.0.1"
+        xmlns="http://www.w3.org/ns/widgets">
+    <name>ionic-battery-android</name>
+    <content src="index.html" />
+</widget>
