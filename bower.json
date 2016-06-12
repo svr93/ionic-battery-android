@@ -1,0 +1,30 @@
+{
+  "name": "ionic-battery-android",
+  "description": "Simple Ionic app (ES2016) without Babel, LESS",
+  "main": "gulpfile.js",
+  "authors": [
+    "Vladimir Shamsheev"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ionic",
+    "cordova",
+    "angular",
+    "es2016",
+    "android"
+  ],
+  "homepage": "https://github.com/svr93/ionic-battery-android",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "www/js/vendor",
+    "test"
+  ],
+  "dependencies": {
+    "String.prototype.includes": "^1.0.0",
+    "array-includes": "^1.0.0",
+    "angular": "angularjs#^1.5.6",
+    "requirejs": "^2.2.0"
+  }
+}
