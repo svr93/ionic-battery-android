@@ -48,5 +48,9 @@
     "karma-jasmine": "^1.0.2",
     "karma-requirejs": "^1.0.0",
     "node-static": "^0.7.7"
-  }
+  },
+  "cordovaPlugins": [],
+  "cordovaPlatforms": [
+    "android"
+  ]
 }
