@@ -1,0 +1,52 @@
+{
+  "name": "ionic-battery-android",
+  "version": "0.0.1",
+  "description": "Simple Ionic app (ES2016) without Babel, LESS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svr93/ionic-battery-android.git"
+  },
+  "keywords": [
+    "ionic",
+    "cordova",
+    "angular",
+    "es2016",
+    "android"
+  ],
+  "author": "Vladimir Shamsheev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svr93/ionic-battery-android/issues"
+  },
+  "homepage": "https://github.com/svr93/ionic-battery-android#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-closure-compiler-service": "^0.6.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^4.0.0",
+    "gulp-coveralls": "^0.1.4",
+    "gulp-csslint": "^0.3.1",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-html-replace": "^1.6.0",
+    "gulp-if": "^2.0.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-requirejs-optimize": "^1.0.0",
+    "gulp-ssh": "^0.6.0",
+    "gulp-w3cjs": "^1.2.0",
+    "jasmine-core": "^2.4.1",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-coverage": "^1.0.0",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-requirejs": "^1.0.0",
+    "node-static": "^0.7.7"
+  }
+}
